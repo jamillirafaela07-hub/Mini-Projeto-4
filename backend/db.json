@@ -1,0 +1,74 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "titulo": "Função Afim",
+      "assunto": "Matemática",
+      "revisado": "ok",
+      "resumo": "string;"
+    },
+    {
+      "id": "2",
+      "titulo": "Função Quadrática",
+      "assunto": "Matemática",
+      "revisado": "ok",
+      "resumo": "string;"
+    },
+    {
+      "id": "3",
+      "titulo": "Revolução Francesa",
+      "assunto": "História",
+      "revisado": "ok",
+      "resumo": "Movimento ocorrido em 1789 que derrubou a monarquia na França. Defendia liberdade, igualdade e fraternidade, marcando o início da Idade Contemporânea."
+    },
+    {
+      "id": "4",
+      "titulo": "Era Vargas",
+      "assunto": "História",
+      "revisado": "ok",
+      "resumo": "string;"
+    },
+    {
+      "id": "5",
+      "titulo": "Sujeito e Predicado",
+      "assunto": "Português",
+      "revisado": "ok",
+      "resumo": "Período em que Getúlio Vargas governou o Brasil (1930-1945). Marcado por centralização do poder, criação de leis trabalhistas e industrialização."
+    },
+    {
+      "id": "6",
+      "titulo": "Figuras de Linguagem",
+      "assunto": "Português",
+      "revisado": "ok",
+      "resumo": "Recursos usados para dar mais expressividade ao texto, como metáfora, comparação e hipérbole."
+    },
+    {
+      "id": "7",
+      "titulo": "Célula Animal e Vegetal",
+      "assunto": "Biologia",
+      "revisado": "não iniciado",
+      "resumo": "string;"
+    },
+    {
+      "id": "8",
+      "titulo": "Genética Básica",
+      "assunto": "Biologia",
+      "revisado": "em andamento",
+      "resumo": "string;"
+    },
+    {
+      "id": "9",
+      "titulo": "Leis de Newton",
+      "assunto": "Física",
+      "revisado": "ok",
+      "resumo": "Três leis que explicam o movimento dos corpos: inércia, força (F=ma) e ação e reação."
+    },
+    {
+      "id": "10",
+      "titulo": "Tabela Periódica",
+      "assunto": "Química",
+      "revisado": "não iniciado",
+      "resumo": "string;"
+    }
+  ]
+}

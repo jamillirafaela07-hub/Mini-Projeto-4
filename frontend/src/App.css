@@ -1,0 +1,103 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(135deg, #f3e8ff, #fff7cc);
+  margin: 0;
+  padding: 0;
+}
+
+/* Container */
+.container {
+  max-width: 650px;
+  margin: 40px auto;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* Título */
+h1 {
+  text-align: center;
+  color: #7c3aed;
+  font-weight: bold;
+}
+
+/* Form */
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  background: #f9fafb;
+}
+
+input:focus {
+  border-color: #a78bfa;
+  outline: none;
+}
+
+/* Botões */
+button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  background: #f472b6;
+  color: white;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #ec4899;
+}
+
+/* Cards (agora organizados e suaves) */
+.card {
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  padding: 15px;
+  border-radius: 15px;
+  margin-top: 12px;
+  transition: 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.01);
+}
+
+/* Texto */
+strong {
+  color: #1f2937;
+}
+
+.card span {
+  margin-left: 5px;
+}
+
+/* Status */
+.status-ok {
+  background-color: #d1fae5;
+  color: #065f46;
+  padding: 4px 10px;
+  border-radius: 10px;
+}
+
+.status-andamento {
+  background-color: #e0e7ff;
+  color: #3730a3;
+  padding: 4px 10px;
+  border-radius: 10px;
+}
+
+.status-nao {
+  background-color: #fce7f3;
+  color: #9d174d;
+  padding: 4px 10px;
+  border-radius: 10px;
+}
