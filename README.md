@@ -15,11 +15,11 @@ Tecnologias
 - Operações REST: GET, POST, PATCH, DELETE
 
 Como Rodar o Projeto
-1. Clone o repositório:  
+- Clone o repositório:  
 git clone <https://github.com/jamillirafaela07-hub/Mini-Projeto-4.git>
-Instale as dependências:
+- Instale as dependências:
 npm install
-Inicie o json-server:
+- Inicie o json-server:
 npx json-server --watch db.json --port 3000
-Inicie o frontend:
+- Inicie o frontend:
 npm start
